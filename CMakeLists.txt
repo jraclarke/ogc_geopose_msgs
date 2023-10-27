@@ -55,6 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
     GeoPoseAdvanced.msg  
     GeoPoseBasicQuaternion.msg  
     GeoPoseBasicYPR.msg  
+    GeoPoseBasicYPRStamped.msg  
     GeoPoseGraph.msg  
     Position.msg  
     Quaternion.msg
